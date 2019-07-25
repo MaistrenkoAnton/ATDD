@@ -1,2 +1,2 @@
 # ATDD
-Automated tests
+Automated tests code source
